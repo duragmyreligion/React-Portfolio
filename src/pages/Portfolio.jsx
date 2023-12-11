@@ -10,7 +10,7 @@ const Portfolio = () => {
       'Induction & Training module designed and customised for Skippers Transport. ', 
       'Interactive blog/forum style website designed for gamers, by gamers.', 
       'Website for "New World Gear", our own clothing business.'],
-      images: ['./public/images/project1.png', './public/images/project2.png', './public/images/project3.png'],
+      images: ['./images/project1.png', './images/project2.png', './images/project3.png'],
       links: ['https://github.com/duragmyreligion/bootcamp-project-1', 'https://github.com/duragmyreligion/bootcamp-project-2', 'https://github.com/duragmyreligion/bootcamp-project-3']
     },
     // Add more projects as needed
